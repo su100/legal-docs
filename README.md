@@ -6,7 +6,7 @@ su100 이 운영하는 서비스들의 개인정보처리방침·이용약관 �
 
 | 서비스 | 개인정보처리방침 | 이용약관 |
 |---|---|---|
-| 토마토 장바구니 (toshop-list) | [privacy](toshop-list/privacy.md) | – |
+| 토마토 장바구니 (toshop-list) | [privacy](https://su100.github.io/legal-docs/toshop-list/privacy.html) | – |
 
 각 문서는 GitHub Pages 로 서빙됩니다:
 `https://su100.github.io/legal-docs/<service>/<doc>`
